@@ -32,8 +32,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1608734265656-f035d3e7bcbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJveSUyMGFuaW1hdGVkfGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60"
-              alt="Ricardo portrait"
+              src={profilePic}
+              alt="Kajee portrait"
               width="192"
               height="192"
               quality="95"
