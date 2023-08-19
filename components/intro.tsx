@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="http://kajee.epizy.com/Kajee/download%20(2).png"
+              src="http://kajee.epizy.com/Kajee/download%20(2)"
               alt="Kajee portrait"
               width="537"
               height="537"
