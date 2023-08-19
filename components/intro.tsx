@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://raw.githubusercontent.com/Kajee21/mas/master/IMG-20230817-WA0001-1.jpg"
+              src="http://kajee.epizy.com/Kajee/download%20(2).png"
               alt="Kajee portrait"
               width="537"
               height="537"
