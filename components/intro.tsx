@@ -66,8 +66,8 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Kajee.</span> I'm a{" "}
         <span className="font-bold">Student</span> and{" "}
         <span className="font-bold">forntend</span> developer. I enjoy
-        building <span className="italic">sites & Customizing sites.</span>. My focus is{" "}
-        <span className="underline">HTML,CSS,Java and PHP.</span>.
+        building <span className="italic">sites & Customizing sites</span>. My focus is{" "}
+        <span className="underline">HTML,CSS,Java and PHP</span>.
       </motion.h1>
 
       <motion.div
@@ -112,7 +112,7 @@ export default function Intro() {
           href="https://github.com"
           target="_blank"
         >
-          <FaGithubSquare />
+          <TbBrandTelegram />
         </a>
       </motion.div>
     </section>
