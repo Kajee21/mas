@@ -33,8 +33,8 @@ export default function Intro() {
             <Image
               src="https://raw.githubusercontent.com/Kajee21/mas/master/IMG-20230817-WA0001-1.jpg"
               alt="Kajee portrait"
-              width="192"
-              height="192"
+              width="537"
+              height="537"
               quality="95"
               priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
